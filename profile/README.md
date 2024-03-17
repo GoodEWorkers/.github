@@ -19,7 +19,7 @@ You can explore our repositories to find a project that excites you, or start by
 
 We welcome contributions from everyone, regardless of your skill level or background. Whether you're fixing bugs, adding features, improving documentation, or sharing ideas, your involvement is valuable to us.
 
-Before contributing, please take a moment to read our [Code of Conduct](./CODE_OF_CONDUCT.md). We are committed to providing a welcoming and inclusive environment for all our contributors.
+Before contributing, please take a moment to read our [Code of Conduct](./profile/CODE_OF_CONDUCT.md). We are committed to providing a welcoming and inclusive environment for all our contributors.
 
 To get started:
 
