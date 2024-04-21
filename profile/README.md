@@ -28,7 +28,7 @@ To get started:
 3. Make your changes and commit them.
 4. Submit a pull request with a clear description of your contributions.
 
-For more detailed instructions, check out our [Contribution Guidelines](CONTRIBUTING.md).
+For more detailed instructions, check out our [Contribution Guidelines](./profile/CONTRIBUTING.md).
 
 
 ## Support Us
